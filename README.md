@@ -20,3 +20,7 @@ npm run json-server
 "json-server": "json-server --watch db.json"
 
 json-server --watch db.json ----> -p ?    --route  ?
+
+in git
+https://my-json-server.typicode.com/typicode/demo
+https://my-json-server.typicode.com/serkancan006/JsonPlaceHolder
