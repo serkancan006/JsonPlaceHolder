@@ -13,7 +13,7 @@ $ json-server --watch db.json --port 3004
 
 
 # node ile yapılışı
-npm init
+npm init <br>
 package.json script
 "json-server": "json-server --watch products.json"
 npm run json-server
