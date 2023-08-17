@@ -9,7 +9,7 @@ $ json-server --watch db.json --port 3004
 ## Learn
 ?--route  
 ?routes.json
-?--lowdb 
+?lowdb 
 
 
 # node ile yapılışı
