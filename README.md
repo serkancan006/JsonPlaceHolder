@@ -1,6 +1,6 @@
 # npm -g ile yapılışı
-npm install -g json-server
-json-server --watch products.json     or     json-server --watch db.json 
+npm install -g json-server <br>
+json-server --watch products.json     or     json-server --watch db.json <br>
 localhost:3000/products or localhost:3000/categories or localhost:3000
 
 
@@ -8,17 +8,17 @@ localhost:3000/products or localhost:3000/categories or localhost:3000
 $ json-server --watch db.json --port 3004
 ## Learn
 ?--route  
-?routes.json
-?lowdb 
+?routes.json <br>
+?lowdb  <br>
 
 
 # node ile yapılışı
 npm init <br>
-package.json script
-"json-server": "json-server --watch products.json"
-npm run json-server
+package.json script <br>
+"json-server": "json-server --watch products.json" <br>
+npm run json-server <br>
 
 
 # git ile yapılışı  -> gördüğü dosya db.json
-https://my-json-server.typicode.com/typicode/demo
+https://my-json-server.typicode.com/typicode/demo <br>
 https://my-json-server.typicode.com/serkancan006/JsonPlaceHolder
