@@ -1,13 +1,13 @@
 # npm -g ile yapılışı
 npm install -g json-server <br>
 json-server --watch products.json     or     json-server --watch db.json <br>
-localhost:3000/products or localhost:3000/categories or localhost:3000
+localhost:3000/products or localhost:3000/categories or localhost:3000 <br>
 
 
 ## bazı ayarlamalar
-$ json-server --watch db.json --port 3004
+$ json-server --watch db.json --port 3004 <br>
 ## Learn
-?--route  
+?--route  <br>
 ?routes.json <br>
 ?lowdb  <br>
 
@@ -21,4 +21,4 @@ npm run json-server <br>
 
 # git ile yapılışı  -> gördüğü dosya db.json
 https://my-json-server.typicode.com/typicode/demo <br>
-https://my-json-server.typicode.com/serkancan006/JsonPlaceHolder
+https://my-json-server.typicode.com/serkancan006/JsonPlaceHolder <br>
