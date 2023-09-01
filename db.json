@@ -4,7 +4,7 @@
   "profile": { "name": "typicode" },
   "products": [
     {
-      "urunID": 1,
+      "id": 1,
       "urunAdi": "Akıllı Telefon",
       "marka": "Samsung",
       "fiyat": 1499.99,
@@ -12,7 +12,7 @@
       "renkler": ["Siyah", "Beyaz", "Mavi"]
     },
     {
-      "urunID": 2,
+      "id": 2,
       "urunAdi": "Laptop Bilgisayar",
       "marka": "HP",
       "fiyat": 2499.99,
@@ -20,7 +20,7 @@
       "renkler": ["Gri", "Siyah"]
     },
     {
-      "urunID": 3,
+      "id": 3,
       "urunAdi": "Kablosuz Kulaklık",
       "marka": "Sony",
       "fiyat": 199.99,
