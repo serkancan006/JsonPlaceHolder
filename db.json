@@ -1,9 +1,31 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" },
+  "products": [
+    {
+      "urunID": 1,
+      "urunAdi": "Akıllı Telefon",
+      "marka": "Samsung",
+      "fiyat": 1499.99,
+      "stokAdedi": 100,
+      "renkler": ["Siyah", "Beyaz", "Mavi"]
+    },
+    {
+      "urunID": 2,
+      "urunAdi": "Laptop Bilgisayar",
+      "marka": "HP",
+      "fiyat": 2499.99,
+      "stokAdedi": 50,
+      "renkler": ["Gri", "Siyah"]
+    },
+    {
+      "urunID": 3,
+      "urunAdi": "Kablosuz Kulaklık",
+      "marka": "Sony",
+      "fiyat": 199.99,
+      "stokAdedi": 200,
+      "renkler": ["Siyah", "Beyaz"]
+    }
+  ]
+}
